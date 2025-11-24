@@ -1,7 +1,4 @@
-# Panduan Menjalankan Project MLflow Training
-
-Dokumen ini berisi langkah-langkah untuk menjalankan project training
-model dengan MLflow.
+# Project MLflow Training
 
 ## 1. Persiapan Lingkungan
 
